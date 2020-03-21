@@ -1,0 +1,7 @@
+*.log
+*.pyc
+.DS_Store
+__pycache__/
+*.swp
+output/
+user_info.txt
